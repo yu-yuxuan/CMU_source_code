@@ -1,0 +1,92 @@
+﻿Build started 12/18/2017 7:31:20 PM.
+     1>Project "D:\OTHERS\KangKang_code\3-gCVT\GeneralizedCVT\GeneralizedCVTKfiles_yu_test_4_heli_4\GeneralizedCVTKfiles.vcxproj" on node 2 (build target(s)).
+       Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>InitializeBuildStatus:
+         Creating "Debug\GeneralizedCVTKfiles.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneralizedCVT.cpp
+         GeneralizedCVT.cpp
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(62): warning C4101: 'tempXPre' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(62): warning C4101: 'tempZ' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(61): warning C4101: 'secondVertex' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(61): warning C4101: 'prevVertex' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(62): warning C4101: 'tempY' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(61): warning C4101: 'countTotal' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(61): warning C4101: 'firstVertex' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(62): warning C4101: 'tempDouble' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(62): warning C4101: 'tempX' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(61): warning C4101: 'j' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(229): warning C4101: 'countTotal' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(725): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(1960): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(1997): warning C4101: 'k' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(2104): warning C4101: 'maxClusterIndex' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(2105): warning C4101: 'indexNei' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(2144): warning C4101: 'k' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(2256): warning C4101: 'k' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(2408): warning C4101: 'k' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(2408): warning C4101: 'j' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(2545): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(2642): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(2656): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(3002): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(3082): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(3089): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(3230): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(3368): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(3441): warning C4551: function call missing argument list
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(3815): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(3836): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(3837): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(3965): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(3958): warning C4101: 'tempIntEnd' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(3958): warning C4101: 'tempIntStart' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(4123): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(4101): warning C4101: 'indexCluster' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(4236): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(4441): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(4693): warning C4551: function call missing argument list
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(4856): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(5097): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(5263): warning C4101: 'index' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(5647): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(5725): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(5687): warning C4101: 'indexCluster' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(6043): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(6207): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(6228): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(6279): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(6418): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(6446): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(5975): warning C4101: 'TParaPos' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(5971): warning C4101: 'BalanceFlag' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(6063): warning C4101: 'octree_idx' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(6788): warning C4101: 'j' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(6855): warning C4101: 'j' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(6892): warning C4101: 'j' : unreferenced local variable
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(386): warning C4715: 'GeneralizedCVT::RecursiveLocalCoordinateSystem' : not all control paths return a value
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(856): warning C4715: 'GeneralizedCVT::GetNeighboringElementInRings' : not all control paths return a value
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(1992): warning C4715: 'GeneralizedCVT::EnforceLabelConnectivity' : not all control paths return a value
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(2251): warning C4715: 'GeneralizedCVT::EnforceBoundaryConnectivity' : not all control paths return a value
+     1>d:\others\kangkang_code\3-gcvt\generalizedcvt\generalizedcvtkfiles_yu_test_4_heli_4\generalizedcvt.cpp(3296): warning C4715: 'GeneralizedCVT::FindOneCornerPoint' : not all control paths return a value
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\OTHERS\KangKang_code\3-gCVT\GeneralizedCVT\GeneralizedCVTKfiles_yu_test_4_heli_4\Debug\GeneralizedCVTKfiles.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\GeneralizedCVTKfiles.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\OTHERS\KangKang_code\3-gCVT\GeneralizedCVT\GeneralizedCVTKfiles_yu_test_4_heli_4\Debug\GeneralizedCVTKfiles.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\OTHERS\KangKang_code\3-gCVT\GeneralizedCVT\GeneralizedCVTKfiles_yu_test_4_heli_4\Debug\GeneralizedCVTKfiles.lib" /MACHINE:X86 Debug\GeneralizedCVTKfiles.exe.embed.manifest.res
+         Debug\GeneralizedCVT.obj
+         Debug\Main.obj
+         Debug\RawMesh.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\GeneralizedCVTKfiles.exe.embed.manifest" /manifest Debug\GeneralizedCVTKfiles.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         GeneralizedCVTKfiles.vcxproj -> D:\OTHERS\KangKang_code\3-gCVT\GeneralizedCVT\GeneralizedCVTKfiles_yu_test_4_heli_4\Debug\GeneralizedCVTKfiles.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\GeneralizedCVTKfiles.unsuccessfulbuild".
+         Touching "Debug\GeneralizedCVTKfiles.lastbuildstate".
+     1>Done Building Project "D:\OTHERS\KangKang_code\3-gCVT\GeneralizedCVT\GeneralizedCVTKfiles_yu_test_4_heli_4\GeneralizedCVTKfiles.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.75
